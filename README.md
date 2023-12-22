@@ -1,5 +1,5 @@
 # Arrhythmia-detection-using-PPG
-This is a machine learning model that predicts whether a patient suffers from Atrial Fibrillation or not.
+This is a machine learning model that detects whether a patient suffers from Atrial Fibrillation or not.
 # Purpose
 We first started building this as a project for college but when we were researching the topic, we couldn't find any open-source projects. Hence we have decided to make this an open-source project to collaborate with different people to further expland this project. 
 # Dataset
