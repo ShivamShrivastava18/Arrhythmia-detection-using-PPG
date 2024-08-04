@@ -19,6 +19,7 @@ performance, with minimal inaccuracies.
 # Citations 
 Charlton PH et al., Detecting beats in the photoplethysmogram: benchmarking open-source algorithms, Physiological Measurement, 2022.
 # Contributors
+[Paavas Goyal](https://github.com/Yeetogami)
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
